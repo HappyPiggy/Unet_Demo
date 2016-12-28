@@ -14,34 +14,13 @@ Platform assembly: E:\Unity3D_Project\UNET_Demo\Builds\client_Data\Managed\Unity
 Loading E:\Unity3D_Project\UNET_Demo\Builds\client_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: E:\Unity3D_Project\UNET_Demo\Builds\client_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading E:\Unity3D_Project\UNET_Demo\Builds\client_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.059 seconds
+- Completed reload, in  0.065 seconds
 Platform assembly: E:\Unity3D_Project\UNET_Demo\Builds\client_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: E:\Unity3D_Project\UNET_Demo\Builds\client_Data\Managed\System.dll (this message is harmless)
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.081091 ms
+UnloadTime: 0.950234 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 14c8 -> priority: 1 
-NullReferenceException: Object reference not set to an instance of an object
-  at Bullet.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at Bullet.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at Bullet.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-NullReferenceException: Object reference not set to an instance of an object
-  at Bullet.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
- 
-(Filename:  Line: -1)
-
-Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:7777}
+  Thread -> id: 610 -> priority: 1 
