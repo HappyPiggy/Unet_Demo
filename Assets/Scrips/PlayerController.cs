@@ -19,7 +19,7 @@ public class PlayerController : NetworkBehaviour
             return;
 
         float h = Input.GetAxis("Horizontal");
-        float v = Input.GetAxisRaw("Vertical");
+        float v = Input.GetAxis("Vertical");
 
         transform.Rotate(spinVelocity * Time.deltaTime * Vector3.up * h);
         transform.Translate(moveVelocity * Time.deltaTime * Vector3.forward * v);
